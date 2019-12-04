@@ -1,2 +1,2 @@
-# EmployeeManagementSystem
-THIS IS A REACT APP FOR UOM COURSEWORK
+# Employee Management System
+This is a MERN APP for the second year project
